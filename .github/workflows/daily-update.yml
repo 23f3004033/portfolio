@@ -1,4 +1,6 @@
-name: "23f3004033@ds.study.iitm.ac.in - Daily Repository Update"
+name: "Daily Repository Update"
+
+run-name: "23f3004033@ds.study.iitm.ac.in - Daily Run"
 
 permissions:
   contents: write
