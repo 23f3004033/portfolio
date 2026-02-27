@@ -1,6 +1,6 @@
 name: "Daily Repository Update"
 
-run-name: "23f3004033@ds.study.iitm.ac.in - Daily Run"
+run-name: "23f3004033@ds.study.iitm.ac.in - ${{ github.event_name }}"
 
 permissions:
   contents: write
